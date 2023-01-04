@@ -1,0 +1,5 @@
+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(토큰주소)
+
+https://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@github.com/yellly/pythonbasic.git(로그인 안해도 되게 토큰이랑 주소 결합)
+
+git remote add origin https://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@github.com/yellly/pythonbasic.git
