@@ -1,0 +1,51 @@
+1) list의 reverse는 리스트 요소 순서 그대로를 반대로 나열, list  메서드, 반환 값 없음
+   reversed는 순서나 높나지 대로 나열, 함수, 반환 값 있음
+2)
+a = input("시간").split(":")
+
+if a[1] == "00" :
+    print("정각입니다.")
+else:
+    print("정각이 아닙니다")
+
+#선생님껀
+hour, min = input(~).split(":")
+if min == 00
+~
+
+3) Pt
+
+4) 3
+
+5) 5
+
+5)
+list_a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+list_a[2]= "짝"
+list_a[5]= "짝"
+list_a[-2]= "짝"
+print(list_a)
+
+#선생님꺼
+list_a = list(range(1, 11))
+
+list_a[2 : : 3]
+(준다하심)
+
+6) 4
+
+7) 1,2,3,5
+
+8) 
+sum = 0
+for i in range(1, 11, 2):
+    sum = sum+i
+print(sum)
+
+#선생님꺼
+~~~~~~
+
+9) 4
+
+10) 4, 5
+    
